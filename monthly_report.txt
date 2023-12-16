@@ -1,0 +1,11 @@
+Monthly Report for month 3:
+-----------------------------
+Total Leave Applications: 5
+
+Staff ID	Name		Date			Status
+--------------------------------------------------
+S01			Adam		30/03/2023		Pending
+S15			Pika		10/03/2023		Approved
+S88			Anson		10/03/2023		Approved
+S88			Anson		20/03/2023		Rejected
+S88			Anson		26/03/2023		Approved

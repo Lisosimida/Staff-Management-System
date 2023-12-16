@@ -1,0 +1,8 @@
+S01 Adam 8 5 5 60 14
+S02 Nicole 0 0 0 0 0
+S03 CK 8 5 5 60 14
+S04 Steve 8 5 5 60 14
+S05 Sam 8 5 5 60 14
+S08 Hoho 8 5 5 60 14
+S09 Yoyo 0 2 4 6 1
+S10 Ray 8 5 5 60 14
